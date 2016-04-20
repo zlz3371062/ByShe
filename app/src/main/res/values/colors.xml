@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="juse">#ff6e00</color>
+    <color name="baise">#ffffff</color>
+    <color name="huise">#cccccc</color>
+    <color name="lanse">#1b9fe0</color>
+    <color name="huibai">#FAFAFA</color>
+    <color name="qianjuse">#FFA33B</color>
+    <color name="qianhongse">#FF4561</color>
+</resources>
